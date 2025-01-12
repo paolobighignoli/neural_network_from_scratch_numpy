@@ -1,0 +1,5 @@
+# virtual environment
+venv_grokking
+
+# checkpoints
+.ipynb_checkpoints
